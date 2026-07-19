@@ -11,6 +11,8 @@
 <h3>👨‍💻</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,flask,java,spring,dotnet,mysql,postgres,mongodb,redis,git,github,gitlab,docker,aws,figma,ps,blender,vscode,sass,deno,linux&perline=8&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Flask, Java, Spring Boot, .NET, MySQL, PostgreSQL, MongoDB, Redis, Git, GitHub, GitLab, Docker, AWS, Figma, Photoshop, Blender, VS Code, Sass, Deno e Linux">
 <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=tuzzooz&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+<br>
 <br>
 <a href="https://www.linkedin.com/in/ot%C3%A1vio-vianna-lima-1b26a932a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:otavioviannalima@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
