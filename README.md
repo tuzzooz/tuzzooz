@@ -18,3 +18,14 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<h3>🎧 Boa música</h3>
+<a href="https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"><img src="assets/better-if-you-do.jpg" width="120" alt="Capa de But It's Better If You Do"></a>
+<br>
+<strong>But It's Better If You Do</strong>
+<br>
+<sub>Panic! At The Disco</sub>
+<br><br>
+<a href="https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"><img src="https://img.shields.io/badge/Ouvir_no_Spotify-1DB954?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Ouvir no Spotify"></a>
+</div>
