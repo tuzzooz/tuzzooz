@@ -1,15 +1,36 @@
-## Olá! Sou Otávio Vianna Lima
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <div align="center">
+        <h2>Olá, olá! 👋</h2>
+        <h3>Eu sou Otávio Vianna Lima, desenvolvedor e designer ✦</h3>
+      </div>
 
-• Tenho 20 anos e nasci no Rio de Janeiro, porém, moro em São José dos Campos desde os meus 3 anos. 
+      <br>
 
-• Sou apaixonado por front-end e design, e estou me dedicando ao estudo de linguagens de back-end para ampliar minhas habilidades e evoluir ainda mais na área de desenvolvimento.
+      <div align="center">
+        <p>🎓 Desenvolvimento de Software Multiplataforma — Fatec SJC</p>
+        <p>💻 Full Stack • Designer • DevOps</p>
+        <p>📚 Estudando Blender e .NET</p>
+        <p>🎮 My Chemical Romance • Homem-Aranha • Persona • tgswiiwagaa</p>
+      </div>
 
-<a href="https://github.com/anuraghazr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuzzooz" />
-</a>
-<br>
-<br>
+      <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuzzooz&layout=compact&langs_count=8&card_width=320" />
-</a>
+      <div align="center">
+        <a href="https://www.linkedin.com/in/ot%C3%A1vio-vianna-lima-1b26a932a/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:otavioviannalima@gmail.com">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+        </a>
+        <a href="https://portfolio-otavio-psi.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="30%">
+      <img src="assets/spider-man.jpg" width="280" alt="Homem-Aranha e seus inimigos">
+    </td>
+  </tr>
+</table>
