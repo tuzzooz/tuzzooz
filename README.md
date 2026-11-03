@@ -1,7 +1,7 @@
 <table align="center">
 <tr>
 <td align="center" valign="middle" width="70%">
-<h2>Olá, olá! 👋</h2>
+<h2>Olá, olá! </h2>
 <h3>Eu sou Otávio Vianna Lima, desenvolvedor e designer ✦</h3>
 <br>
 <p>🎓 Desenvolvimento de Software Multiplataforma — Fatec SJC</p>
